@@ -1,5 +1,5 @@
 # -*-coding: utf-8 -*-
-from nlin_fem import *
+from lin_fem import *
 #~ import nlin_fem as nlin
 import pylab as pl
 import numpy as np
